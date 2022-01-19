@@ -18,4 +18,4 @@ Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya 
 - HTML
 - CSS
 - JavaScript
-- Och snart PHP.
+- Och snart PHP
