@@ -14,7 +14,7 @@ Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya 
 - Digital bildbehandling för webb 7,5hp
 - Webbanvändbarhet 7,5hp
 
-## Kodar i...
+## Språk
 - HTML
 - CSS
 - JavaScript
