@@ -5,8 +5,8 @@ Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya 
 
 ## Kurser
 ### Pågående kurser
-- JavaScriptbaserad webbutveckling 7,5hp
-- Programmering i C# 7,5hp
+- Webbutveckling med .NET 7,5hp
+- Affärsplaner och kommersialisering 7,5hp
 
 ### Tidigare kurser
 - Webbutveckling I 7,5hp
@@ -15,14 +15,16 @@ Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya 
 - Webbanvändbarhet 7,5hp
 - Webbutveckling II 7,5hp 
 - Databaser 7,5hp
-- Webbutveck´ling III 7,5 hp
+- Webbutveckling III 7,5 hp
 - Webbdesign för CMS 7,5 hp
 - Projektledning 7,5hp
 - Fullstackutveckling med ramverk 7,5 hp
+- JavaScriptbaserad webbutveckling 7,5hp
+- Programmering i C# 7,5hp
 
 ## Språk/Verktyg/Ramverk
 - HTML
-- CSS
+- CSS/SCSS
 - JavaScript
 - PHP
 - SQL
