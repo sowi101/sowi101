@@ -27,7 +27,7 @@ Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya 
 - CSS/SCSS
 - JavaScript
 - PHP
-- SQL
+- SQL/NoSQL
 - WordPress
 - Node.js
 - Express.js
@@ -35,3 +35,4 @@ Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya 
 - Bootstrap
 - Laravel
 - C#
+- Figma
