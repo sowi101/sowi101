@@ -1,14 +1,8 @@
 # Välkommen till min Github!
 
-Jag heter Sofia Widholm och studerar just nu till webbutvecklare på Mittuniversitetet. Planen är att ta examen i juni 2023.
-Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya utbildning och i framtiden jobba med digitala läromedel.
+Jag heter Sofia Widholm och har sedan 2023 en högskoleexamen i datateknik från Webbutvecklingprogrammet på Mittuniversitetet.
 
-## Kurser
-### Pågående kurser
-- Webbutveckling med .NET 7,5hp
-- Affärsplaner och kommersialisering 7,5hp
-
-### Tidigare kurser
+## Kurser jag läst på Webbutvecklingprogrammet
 - Webbutveckling I 7,5hp
 - Introduktion till programmering med JavaScript 7,5hp
 - Digital bildbehandling för webb 7,5hp
@@ -21,18 +15,24 @@ Jag är sedan tidigare lärare och har en dröm att kombinera min gamla och nya 
 - Fullstackutveckling med ramverk 7,5 hp
 - JavaScriptbaserad webbutveckling 7,5hp
 - Programmering i C# 7,5hp
+- Webbutveckling med .NET 7,5hp
+- Affärsplaner och kommersialisering 7,5hp
+- Självständigt arbete 15hp
 
 ## Språk/Verktyg/Ramverk
 - HTML
 - CSS/SCSS
 - JavaScript
 - PHP
-- SQL/NoSQL
+- SQL/NoSQL (Maria DB/MongoDB)
 - WordPress
 - Node.js
 - Express.js
 - Vue
+- React
 - Bootstrap
 - Laravel
-- C#
+- C#/.NET
+- Entity Framework
+- ASP.NET Core MVC
 - Figma
